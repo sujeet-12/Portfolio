@@ -1,2 +1,2 @@
-# Portfolio
-My portfolio website using html css js
+# Todo App
+My todo app using nextjs tailwind css & shadcn UI design patterns 
